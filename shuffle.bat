@@ -1,0 +1,7 @@
+@echo off
+shuffleSmall
+shuffleSmall
+shuffleMedium
+shuffleMedium
+shuffleLarge
+shuffleLarge
