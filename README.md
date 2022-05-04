@@ -1,3 +1,4 @@
+Project reflection contains algo description.
 # SETUP 
 I think bat files only work on Windows. Also need to install MinGW c++ (g++):
 1. Copy the inputs into the working directory of the batch/exe files. Create the output folder structure (outputs/small, outputs/medium, outputs/large).
